@@ -4,6 +4,8 @@ https://GaudiGardens.Now.Sh/
 
 http://t.me/GaudiGardensBot
 
+$GAUDI
+
 # Next.js & Vercel info below.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
